@@ -3,7 +3,7 @@ from openai import api_key
 import openai
 
 # Set the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "YOUR-API-KEY"
 
 # Initialize the speech recognition module
 r = sr.Recognizer()
